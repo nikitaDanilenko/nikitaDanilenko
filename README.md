@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi!
+
+For an overview of my projects head to [nikitaDanilenko.github.io](http://nikitaDanilenko.github.io)!
+
+[![An image of @nikitadanilenko's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikitadanilenko)](https://holopin.io/@nikitadanilenko)
 
 <!--
 **nikitaDanilenko/nikitaDanilenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
